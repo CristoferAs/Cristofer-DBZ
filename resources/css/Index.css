@@ -1,0 +1,31 @@
+    footer {
+        max-width: 10000px;
+        /*min-height: 250px;*/
+        background: #000;
+        margin: 0 auto;
+        border: 0 0 20px 20px;
+        color: #fff;
+        text-align: center;
+        padding: 30px;
+        box-sizing: border-box;
+        font-size: 18px;
+    }
+    
+    .Carrusel {
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+        border-radius: 2%;
+        background-color: black;
+    }
+    
+    p {
+        font-style: normal;
+        text-align: justify;
+        padding-left: 5%;
+        padding-right: 5%;
+        color: white;
+    }
+    
+    body {
+        background: rgb(255, 0, 0);
+        background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(42, 3, 3, 1) 75%, rgba(3, 3, 2, 1) 100%);
+    }
