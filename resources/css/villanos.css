@@ -1,37 +1,35 @@
-footer {
+    footer {
     max-width: 10000px;
     /*min-height: 250px;*/
-    background: #000;
+    background-image: url(https://i.gifer.com/origin/69/69050a4e51979d2c71355ddf997dbf0f.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: 0 auto;
     border: 0 0 20px 20px;
-    color: #fff;
+    color: white;
     text-align: center;
     padding: 30px;
     box-sizing: border-box;
     font-size: 18px;
-}
-
-body {
-    background: rgb(255, 0, 0);
-    background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(42, 3, 3, 1) 75%, rgba(3, 3, 2, 1) 100%);
-}
-
-.carrusel {
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-    border-radius: 2%;
-    background-color: black;
-}
-
-.GM {
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-.Pad {
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
+    body {
+        background: rgb(255, 0, 0);
+        background: radial-gradient(circle, rgba(255, 0, 0, 1) 0%, rgba(42, 3, 3, 1) 75%, rgba(3, 3, 2, 1) 100%);
+    }
+    .carrusel {
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+        border-radius: 2%;
+        background-color: black;
+    }
+    .GM {
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .Pad {
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }

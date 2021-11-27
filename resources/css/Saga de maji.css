@@ -1,10 +1,13 @@
 footer {
     max-width: 10000px;
     /*min-height: 250px;*/
-    background: #000;
+    background-image: url(https://i.gifer.com/origin/69/69050a4e51979d2c71355ddf997dbf0f.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: 0 auto;
     border: 0 0 20px 20px;
-    color: #fff;
+    color: white;
     text-align: center;
     padding: 30px;
     box-sizing: border-box;
